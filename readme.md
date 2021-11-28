@@ -366,6 +366,7 @@ Content-Type: application/json
 `llvm_ir`,
 `lolcode`,
 `lua`,
+`MATL`,
 `nasm`,
 `nasm64`,
 `nim`,
